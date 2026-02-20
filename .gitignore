@@ -51,4 +51,7 @@ CodeCoverage/
 # NUnit
 *.VisualState.xml
 TestResult.xml
+
+# Visual Studio
+.vs/
 nunit-*.xml
