@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/UtilHub.Cli/UtilHub.Cli.csproj" />
+  <Project Path="src/UtilHub.Shared/UtilHub.Shared.csproj" />
+</Solution>
